@@ -1,0 +1,4 @@
+python-telegram-bot==20.3
+groq==0.4.2
+requests==2.31.0
+pydantic==1.10.13
